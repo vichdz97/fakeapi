@@ -1,0 +1,15 @@
+{
+  "product": [
+    {
+      "_id": 1,
+      "addedToCart": false,
+      "name": "product name",
+      "product_description": "product description",
+      "product_price": 50,
+      "product_image": "",
+      "rating": 3,
+      "times_bought": 2,
+      "title": "hello"
+    }
+  ]
+}
