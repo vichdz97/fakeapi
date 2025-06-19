@@ -1,5 +1,5 @@
 {
-  "product": [
+  "products": [
     {
       "_id": 1,
       "addedToCart": false,
@@ -11,5 +11,8 @@
       "times_bought": 2,
       "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
